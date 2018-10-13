@@ -1,4 +1,6 @@
-[comment]:超链接的加入方式[tag][url]
+[comment]:超链接的加入方式：[tag][url]
+[comment]:分割线的加入方式：----
+
 # leetcode-algorithm
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -10,6 +12,7 @@
 8.
 9.
 10.
+----
 11.
 12.
 13.
@@ -20,6 +23,7 @@
 18.
 19.
 20.
+----
 .
 .
 .
