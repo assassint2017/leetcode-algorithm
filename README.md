@@ -79,7 +79,7 @@
 69. [Sqrt(x)](https://github.com/assassint2017/leetcode-algorithm/tree/master/)
 70. [Climbing Stairs](https://github.com/assassint2017/leetcode-algorithm/tree/master/)
 ----
-71. [](https://github.com/assassint2017/leetcode-algorithm/tree/master/)
+71. [Simplify Path](https://github.com/assassint2017/leetcode-algorithm/tree/master/)
 72. [](https://github.com/assassint2017/leetcode-algorithm/tree/master/)
 73. [Set Matrix Zeroes](https://github.com/assassint2017/leetcode-algorithm/tree/master/)
 74. [Search a 2D Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/)
