@@ -14,7 +14,7 @@
 6. [ZigZag Conversion](https://github.com/assassint2017/leetcode-algorithm/tree/master/ZigZag%20Conversion)  
 7. [Reverse Integer](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reverse%20Integer)  
 8. [String to Integer (atoi)]()  
-9. [Palindrome Number]()  
+9. [Palindrome Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Number)  
 10. [Regular Expression Matching]()  
 ----
 11. [Container With Most Water]()
