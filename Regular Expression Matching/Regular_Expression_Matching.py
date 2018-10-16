@@ -41,3 +41,23 @@ class Solution(object):
                 memo[i, j] = ans
             return memo[i, j]
         return dp(0, 0)  
+# 第二种思路快的主要原因就是添加了备忘录
+# 如果像下面一样，删除了备忘录的话，速度基本就和第一种思路一样
+class Solution(object):
+    def isMatch(self, text, pattern):
+        """
+        :type s: str
+        :type p: str
+        :rtype: bool
+        """
+        def dp(i, j):
+            if j == len(pattern):
+                ans = i == len(text)
+            else:
+                first_match = i < len(text) and pattern[j] in {text[i], '.'}
+                if j+1 < len(pattern) and pattern[j+1] == '*':
+                    ans = dp(i, j+2) or first_match and dp(i+1, j)
+                else:
+                    ans = first_match and dp(i+1, j+1)
+            return ans
+        return dp(0, 0)  
