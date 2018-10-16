@@ -21,7 +21,7 @@
 12. [Integer to Roman](https://github.com/assassint2017/leetcode-algorithm/tree/master/Integer%20to%20Roman)
 13. [Roman to Integer](https://github.com/assassint2017/leetcode-algorithm/tree/master/Roman%20to%20Integer)
 14. [Longest Common Prefix](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Common%20Prefix)
-15. [3Sum]()
+15. [3Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/3Sum)
 16. [3Sum Closest]()
 17. [Letter Combinations of a Phone Number]()
 18. [4Sum]()
