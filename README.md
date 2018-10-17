@@ -29,7 +29,7 @@
 20. [Valid Parentheses](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Parentheses)
 ----
 21. [Merge Two Sorted Lists](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20Two%20Sorted%20Lists)
-22. [Generate Parentheses]()
+22. [Generate Parentheses](https://github.com/assassint2017/leetcode-algorithm/tree/master/Generate%20Parentheses)
 23. [Merge k Sorted Lists]()
 24. [Swap Nodes in Pairs]()
 25. [Reverse Nodes in k-Group]()
