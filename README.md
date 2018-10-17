@@ -57,7 +57,7 @@
 45. [Jump Game II]()
 46. [Permutations]()
 47. [Permutations II]()
-48. [Rotate Image]()
+48. [Rotate Image](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20Image)
 49. [Group Anagrams]()
 50. [Pow(x, n)](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pow(x%2C%20n))
 ----
