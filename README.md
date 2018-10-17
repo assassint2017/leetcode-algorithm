@@ -59,7 +59,7 @@
 47. [Permutations II]()
 48. [Rotate Image]()
 49. [Group Anagrams]()
-50. [Pow(x, n)]()
+50. [Pow(x, n)](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pow(x%2C%20n))
 ----
 51. []()
 52. []()
