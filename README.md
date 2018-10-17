@@ -46,7 +46,7 @@
 35. [Search Insert Position]()
 36. [Valid Sudoku](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Sudoku)
 37. [Sudoku Solver]()
-38. [Count and Say]()
+38. [Count and Say](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20and%20Say)
 39. [Combination Sum]()
 40. [Combination Sum II]()
 ----
