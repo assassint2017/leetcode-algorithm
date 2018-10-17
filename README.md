@@ -44,7 +44,7 @@
 33. [Search in Rotated Sorted Array]()
 34. [Find First and Last Position of Element in Sorted Array]()
 35. [Search Insert Position]()
-36. [Valid Sudoku]()
+36. [Valid Sudoku](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Sudoku)
 37. [Sudoku Solver]()
 38. [Count and Say]()
 39. [Combination Sum]()
