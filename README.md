@@ -33,7 +33,7 @@
 23. [Merge k Sorted Lists]()
 24. [Swap Nodes in Pairs]()
 25. [Reverse Nodes in k-Group]()
-26. [Remove Duplicates from Sorted Array]()
+26. [Remove Duplicates from Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20Array)
 27. [Remove Element]()
 28. [Implement strStr()]()
 29. [Divide Two Integers]()
