@@ -39,7 +39,7 @@
 29. [Divide Two Integers]()
 30. [Substring with Concatenation of All Words]()
 ----
-31. [Next Permutation]()
+31. [Next Permutation](https://github.com/assassint2017/leetcode-algorithm/tree/master/Next%20Permutation)
 32. [Longest Valid Parentheses]()
 33. [Search in Rotated Sorted Array]()
 34. [Find First and Last Position of Element in Sorted Array]()
