@@ -41,7 +41,7 @@
 ----
 31. [Next Permutation](https://github.com/assassint2017/leetcode-algorithm/tree/master/Next%20Permutation)
 32. [Longest Valid Parentheses]()
-33. [Search in Rotated Sorted Array]()
+33. [Search in Rotated Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20Rotated%20Sorted%20Array)
 34. [Find First and Last Position of Element in Sorted Array]()
 35. [Search Insert Position]()
 36. [Valid Sudoku](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Sudoku)
