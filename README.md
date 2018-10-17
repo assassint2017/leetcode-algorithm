@@ -94,7 +94,7 @@
 79. [Word Search]()
 80. [Remove Duplicates from Sorted Array II]()
 ----
-81. [Search in Rotated Sorted Array II]()
+81. [Search in Rotated Sorted Array II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20Rotated%20Sorted%20Array%20II)
 82. []()
 83. [Remove Duplicates from Sorted List]()
 84. []()
