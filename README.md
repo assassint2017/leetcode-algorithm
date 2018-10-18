@@ -83,7 +83,7 @@
 69. [Sqrt(x)]()
 70. [Climbing Stairs]()
 ----
-71. [Simplify Path]()
+71. [Simplify Path](https://github.com/assassint2017/leetcode-algorithm/tree/master/Simplify%20Path)
 72. []()
 73. [Set Matrix Zeroes]()
 74. [Search a 2D Matrix]()
