@@ -55,7 +55,7 @@
 43. [Multiply Strings]()
 44. [Wildcard Matching](https://github.com/assassint2017/leetcode-algorithm/tree/master/Wildcard%20Matching)
 45. [Jump Game II]()
-46. [Permutations]()
+46. [Permutations](https://github.com/assassint2017/leetcode-algorithm/tree/master/Permutations)
 47. [Permutations II]()
 48. [Rotate Image](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20Image)
 49. [Group Anagrams]()
