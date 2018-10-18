@@ -116,6 +116,6 @@
 99. []()
 100. []()
 ----
-136. [Single Number]()
+136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
 202. [Happy Number]()
 415. [Add Strings]()
