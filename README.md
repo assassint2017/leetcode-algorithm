@@ -77,7 +77,7 @@
 63. [Unique Paths II]()
 64. [Minimum Path Sum]()
 65. []()
-66. [Plus One]()
+66. [Plus One](https://github.com/assassint2017/leetcode-algorithm/tree/master/Plus%20One)
 67. [Add Binary]()
 68. []()
 69. [Sqrt(x)]()
