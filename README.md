@@ -81,7 +81,7 @@
 67. [Add Binary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Binary)
 68. []()
 69. [Sqrt(x)](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sqrt(x))
-70. [Climbing Stairs]()
+70. [Climbing Stairs](https://github.com/assassint2017/leetcode-algorithm/tree/master/Climbing%20Stairs)
 ----
 71. [Simplify Path](https://github.com/assassint2017/leetcode-algorithm/tree/master/Simplify%20Path)
 72. []()
