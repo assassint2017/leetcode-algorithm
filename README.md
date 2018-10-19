@@ -90,7 +90,7 @@
 75. [Sort Colors](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20Colors)
 76. []()
 77. [Combinations]()
-78. [Subsets]()
+78. [Subsets](https://github.com/assassint2017/leetcode-algorithm/tree/master/Subsets)
 79. [Word Search]()
 80. [Remove Duplicates from Sorted Array II]()
 ----
@@ -103,7 +103,7 @@
 87. []()
 88. [Merge Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20Sorted%20Array)
 89. [Gray Code](https://github.com/assassint2017/leetcode-algorithm/tree/master/Gray%20Code)
-90. [Subsets II]()
+90. [Subsets II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Subsets%20II)
 ----
 91. [Decode Ways](https://github.com/assassint2017/leetcode-algorithm/tree/master/Decode%20Ways)
 92. []()
