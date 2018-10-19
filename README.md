@@ -105,7 +105,7 @@
 89. [Gray Code](https://github.com/assassint2017/leetcode-algorithm/tree/master/Gray%20Code)
 90. [Subsets II]()
 ----
-91. [Decode Ways]()
+91. [Decode Ways](https://github.com/assassint2017/leetcode-algorithm/tree/master/Decode%20Ways)
 92. []()
 93. [Restore IP Addresses]()
 94. []()
