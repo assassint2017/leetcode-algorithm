@@ -73,7 +73,7 @@
 60. [Permutation Sequence]()
 ----
 61. [Rotate List]()
-62. [Unique Paths]()
+62. [Unique Paths](https://github.com/assassint2017/leetcode-algorithm/tree/master/Unique%20Paths)
 63. [Unique Paths II]()
 64. [Minimum Path Sum]()
 65. []()
