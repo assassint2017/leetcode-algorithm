@@ -52,7 +52,7 @@
 ----
 41. [First Missing Positive]()
 42. [Trapping Rain Water](https://github.com/assassint2017/leetcode-algorithm/tree/master/Trapping%20Rain%20Water)
-43. [Multiply Strings]()
+43. [Multiply Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Multiply%20Strings)
 44. [Wildcard Matching](https://github.com/assassint2017/leetcode-algorithm/tree/master/Wildcard%20Matching)
 45. [Jump Game II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Jump%20Game%20II)
 46. [Permutations](https://github.com/assassint2017/leetcode-algorithm/tree/master/Permutations)
