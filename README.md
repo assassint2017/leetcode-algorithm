@@ -75,7 +75,7 @@
 61. [Rotate List]()
 62. [Unique Paths](https://github.com/assassint2017/leetcode-algorithm/tree/master/Unique%20Paths)
 63. [Unique Paths II]()
-64. [Minimum Path Sum]()
+64. [Minimum Path Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Path%20Sum)
 65. []()
 66. [Plus One](https://github.com/assassint2017/leetcode-algorithm/tree/master/Plus%20One)
 67. [Add Binary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Binary)
