@@ -30,7 +30,7 @@
 ----
 21. [Merge Two Sorted Lists](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20Two%20Sorted%20Lists)
 22. [Generate Parentheses](https://github.com/assassint2017/leetcode-algorithm/tree/master/Generate%20Parentheses)
-23. [Merge k Sorted Lists]()
+23. [Merge k Sorted Lists](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20k%20Sorted%20Lists)
 24. [Swap Nodes in Pairs]()
 25. [Reverse Nodes in k-Group]()
 26. [Remove Duplicates from Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20Array)
