@@ -96,7 +96,7 @@
 ----
 81. [Search in Rotated Sorted Array II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20Rotated%20Sorted%20Array%20II)
 82. []()
-83. [Remove Duplicates from Sorted List]()
+83. [Remove Duplicates from Sorted List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20List)
 84. []()
 85. []()
 86. [Partition List]()
