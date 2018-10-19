@@ -85,7 +85,7 @@
 ----
 71. [Simplify Path](https://github.com/assassint2017/leetcode-algorithm/tree/master/Simplify%20Path)
 72. []()
-73. [Set Matrix Zeroes]()
+73. [Set Matrix Zeroes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Set%20Matrix%20Zeroes)
 74. [Search a 2D Matrix]()
 75. [Sort Colors]()
 76. []()
