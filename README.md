@@ -87,7 +87,7 @@
 72. []()
 73. [Set Matrix Zeroes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Set%20Matrix%20Zeroes)
 74. [Search a 2D Matrix]()
-75. [Sort Colors]()
+75. [Sort Colors](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20Colors)
 76. []()
 77. [Combinations]()
 78. [Subsets]()
