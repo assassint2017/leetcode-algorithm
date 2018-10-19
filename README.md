@@ -70,7 +70,7 @@
 57. []()
 58. [Length of Last Word]()
 59. [Spiral Matrix II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Spiral%20Matrix%20II)
-60. [Permutation Sequence]()
+60. [Permutation Sequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Permutation%20Sequence)
 ----
 61. [Rotate List]()
 62. [Unique Paths](https://github.com/assassint2017/leetcode-algorithm/tree/master/Unique%20Paths)
