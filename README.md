@@ -45,7 +45,7 @@
 34. [Find First and Last Position of Element in Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 35. [Search Insert Position](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20Insert%20Position)
 36. [Valid Sudoku](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Sudoku)
-37. [Sudoku Solver]()
+37. [Sudoku Solver](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sudoku%20Solver)
 38. [Count and Say](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20and%20Say)
 39. [Combination Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Combination%20Sum)
 40. [Combination Sum II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Combination%20Sum%20II)
