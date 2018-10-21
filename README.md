@@ -50,7 +50,7 @@
 39. [Combination Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Combination%20Sum)
 40. [Combination Sum II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Combination%20Sum%20II)
 ----
-41. [First Missing Positive]()
+41. [First Missing Positive](https://github.com/assassint2017/leetcode-algorithm/tree/master/First%20Missing%20Positive)
 42. [Trapping Rain Water](https://github.com/assassint2017/leetcode-algorithm/tree/master/Trapping%20Rain%20Water)
 43. [Multiply Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Multiply%20Strings)
 44. [Wildcard Matching](https://github.com/assassint2017/leetcode-algorithm/tree/master/Wildcard%20Matching)
