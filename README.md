@@ -66,7 +66,7 @@
 53. [Maximum Subarray](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Subarray)
 54. [Spiral Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/Spiral%20Matrix)
 55. [Jump Game](https://github.com/assassint2017/leetcode-algorithm/tree/master/Jump%20Game)
-56. [Merge Intervals]()
+56. [Merge Intervals](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20Intervals)
 57. []()
 58. [Length of Last Word](https://github.com/assassint2017/leetcode-algorithm/tree/master/Length%20of%20Last%20Word)
 59. [Spiral Matrix II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Spiral%20Matrix%20II)
