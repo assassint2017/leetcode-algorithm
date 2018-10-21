@@ -31,7 +31,7 @@
 21. [Merge Two Sorted Lists](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20Two%20Sorted%20Lists)
 22. [Generate Parentheses](https://github.com/assassint2017/leetcode-algorithm/tree/master/Generate%20Parentheses)
 23. [Merge k Sorted Lists](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20k%20Sorted%20Lists)
-24. [Swap Nodes in Pairs]()
+24. [Swap Nodes in Pairs](https://github.com/assassint2017/leetcode-algorithm/tree/master/Swap%20Nodes%20in%20Pairs)
 25. [Reverse Nodes in k-Group]()
 26. [Remove Duplicates from Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20Array)
 27. [Remove Element](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Element)
@@ -72,7 +72,7 @@
 59. [Spiral Matrix II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Spiral%20Matrix%20II)
 60. [Permutation Sequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Permutation%20Sequence)
 ----
-61. [Rotate List]()
+61. [Rotate List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20List)
 62. [Unique Paths](https://github.com/assassint2017/leetcode-algorithm/tree/master/Unique%20Paths)
 63. [Unique Paths II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Unique%20Paths%20II)
 64. [Minimum Path Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Path%20Sum)
