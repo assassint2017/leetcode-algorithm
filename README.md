@@ -37,7 +37,7 @@
 27. [Remove Element](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Element)
 28. [Implement strStr()](https://github.com/assassint2017/leetcode-algorithm/tree/master/Implement%20strStr())
 29. [Divide Two Integers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Divide%20Two%20Integers)
-30. [Substring with Concatenation of All Words]()
+30. [Substring with Concatenation of All Words](https://github.com/assassint2017/leetcode-algorithm/tree/master/Substring%20with%20Concatenation%20of%20All%20Words)
 ----
 31. [Next Permutation](https://github.com/assassint2017/leetcode-algorithm/tree/master/Next%20Permutation)
 32. [Longest Valid Parentheses](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Valid%20Parentheses)
