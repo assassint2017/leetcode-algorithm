@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|84|23|50|11|
+|85|23|51|11|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -95,7 +95,7 @@
 80. [Remove Duplicates from Sorted Array II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20Array%20II)
 ----
 81. [Search in Rotated Sorted Array II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20Rotated%20Sorted%20Array%20II)
-82. []()
+82. [Remove Duplicates from Sorted List II]()
 83. [Remove Duplicates from Sorted List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20List)
 84. []()
 85. []()
