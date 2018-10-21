@@ -99,7 +99,7 @@
 83. [Remove Duplicates from Sorted List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20List)
 84. []()
 85. []()
-86. [Partition List]()
+86. [Partition List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Partition%20List)
 87. []()
 88. [Merge Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20Sorted%20Array)
 89. [Gray Code](https://github.com/assassint2017/leetcode-algorithm/tree/master/Gray%20Code)
