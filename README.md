@@ -40,7 +40,7 @@
 30. [Substring with Concatenation of All Words]()
 ----
 31. [Next Permutation](https://github.com/assassint2017/leetcode-algorithm/tree/master/Next%20Permutation)
-32. [Longest Valid Parentheses]()
+32. [Longest Valid Parentheses](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Valid%20Parentheses)
 33. [Search in Rotated Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20Rotated%20Sorted%20Array)
 34. [Find First and Last Position of Element in Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)
 35. [Search Insert Position](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20Insert%20Position)
