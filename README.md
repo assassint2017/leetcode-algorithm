@@ -91,7 +91,7 @@
 76. []()
 77. [Combinations](https://github.com/assassint2017/leetcode-algorithm/tree/master/Combinations)
 78. [Subsets](https://github.com/assassint2017/leetcode-algorithm/tree/master/Subsets)
-79. [Word Search]()
+79. [Word Search](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Search)
 80. [Remove Duplicates from Sorted Array II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20Array%20II)
 ----
 81. [Search in Rotated Sorted Array II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20Rotated%20Sorted%20Array%20II)
