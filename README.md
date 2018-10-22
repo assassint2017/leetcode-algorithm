@@ -95,7 +95,7 @@
 80. [Remove Duplicates from Sorted Array II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20Array%20II)
 ----
 81. [Search in Rotated Sorted Array II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20Rotated%20Sorted%20Array%20II)
-82. [Remove Duplicates from Sorted List II]()
+82. [Remove Duplicates from Sorted List II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20List%20II)
 83. [Remove Duplicates from Sorted List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Duplicates%20from%20Sorted%20List)
 84. []()
 85. []()
@@ -106,7 +106,7 @@
 90. [Subsets II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Subsets%20II)
 ----
 91. [Decode Ways](https://github.com/assassint2017/leetcode-algorithm/tree/master/Decode%20Ways)
-92. [Reverse Linked List II]()
+92. [Reverse Linked List II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reverse%20Linked%20List%20II)
 93. [Restore IP Addresses](https://github.com/assassint2017/leetcode-algorithm/tree/master/Restore%20IP%20Addresses)
 94. []()
 95. []()
