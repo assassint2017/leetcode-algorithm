@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|86|23|52|11|
+|87|23|52|12|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
