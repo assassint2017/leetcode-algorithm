@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|87|23|52|12|
+|88|23|53|12|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -116,6 +116,7 @@
 99. []()
 100. []()
 ----
+120. [Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Triangle)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
 202. [Happy Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Happy%20Number)
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
