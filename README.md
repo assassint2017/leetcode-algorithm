@@ -112,7 +112,7 @@
 95. []()
 96. []()
 97. []()
-98. []()
+98. [Validate Binary Search Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Validate%20Binary%20Search%20Tree)
 99. []()
 100. [Same Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Same%20Tree)
 ----
