@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|98|31|55|12|
+|99|31|56|12|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -110,7 +110,7 @@
 93. [Restore IP Addresses](https://github.com/assassint2017/leetcode-algorithm/tree/master/Restore%20IP%20Addresses)
 94. [Binary Tree Inorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Inorder%20Traversal)
 95. []()
-96. []()
+96. [Unique Binary Search Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Unique%20Binary%20Search%20Trees)
 97. []()
 98. [Validate Binary Search Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Validate%20Binary%20Search%20Tree)
 99. []()
