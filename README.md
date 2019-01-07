@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|99|31|56|12|
+|100|31|57|12|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -117,6 +117,7 @@
 100. [Same Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Same%20Tree)
 ----
 101. [Symmetric Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Symmetric%20Tree)
+102. [Binary Tree Level Order Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Level%20Order%20Traversal)
 104. [Maximum Depth of Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Depth%20of%20Binary%20Tree)
 110. [Balanced Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Balanced%20Binary%20Tree)
 111. [Minimum Depth of Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Depth%20of%20Binary%20Tree)
