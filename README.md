@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|104|33|59|12|
+|106|33|61|12|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -120,8 +120,8 @@
 102. [Binary Tree Level Order Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Level%20Order%20Traversal)
 103. [Binary Tree Zigzag Level Order Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
 104. [Maximum Depth of Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Depth%20of%20Binary%20Tree)
-105. []()
-106. []()
+105. [Construct Binary Tree from Preorder and Inorder Traversal]()
+106. [Construct Binary Tree from Inorder and Postorder Traversal]()
 107. [Binary Tree Level Order Traversal II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Level%20Order%20Traversal%20II)
 108. [Convert Sorted Array to Binary Search Tree]()
 109. []()
