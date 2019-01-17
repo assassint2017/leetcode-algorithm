@@ -129,6 +129,7 @@
 ----
 111. [Minimum Depth of Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Depth%20of%20Binary%20Tree)
 112. [Path Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum)
+113. [Path Sum II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum%20II)
 118. [Pascal's Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle)
 119. [Pascal's Triangle II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle%20II)
 120. [Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Triangle)
