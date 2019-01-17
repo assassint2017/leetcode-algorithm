@@ -132,6 +132,7 @@
 118. [Pascal's Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle)
 119. [Pascal's Triangle II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle%20II)
 120. [Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Triangle)
+129. [Sum Root to Leaf Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20Root%20to%20Leaf%20Numbers)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
 144. [Binary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Preorder%20Traversal)
 145. [Binary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Postorder%20Traversal)
