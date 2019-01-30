@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|115|34|67|14|
+|116|34|67|15|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -84,7 +84,7 @@
 70. [Climbing Stairs](https://github.com/assassint2017/leetcode-algorithm/tree/master/Climbing%20Stairs)
 ----
 71. [Simplify Path](https://github.com/assassint2017/leetcode-algorithm/tree/master/Simplify%20Path)
-72. []()
+72. [Edit Distance](https://github.com/assassint2017/leetcode-algorithm/tree/master/Edit%20Distance)
 73. [Set Matrix Zeroes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Set%20Matrix%20Zeroes)
 74. [Search a 2D Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20a%202D%20Matrix)
 75. [Sort Colors](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20Colors)
