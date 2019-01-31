@@ -20,3 +20,27 @@ class Solution:
             nleStack.append((A[i], i))
 
         return int(sum([A[i] * ple[i] * nle[i] for i in range(len(A))]) % (1e9 + 7))
+
+# 思路四的py代码
+# 276ms 36.84%
+
+class Solution:
+    def sumSubarrayMins(self, A):
+
+        ple = [i + 1 for i in range(len(A))]
+        nle = [len(A) - i for i in range(len(A))]
+        pleStack, nleStack = [], []
+
+        for i in range(len(A)):
+            while pleStack and A[pleStack[-1]] > A[i]:
+                pleStack.pop()
+            ple[i] = i - pleStack[-1] if pleStack else i + 1
+            pleStack.append(i)
+
+            while nleStack and A[nleStack[-1]] > A[i]:
+                temp = nleStack.pop()
+                nle[temp] = i - temp
+            nleStack.append(i)
+
+        return int(sum([A[i] * ple[i] * nle[i] for i in range(len(A))]) % (1e9 + 7))
+        

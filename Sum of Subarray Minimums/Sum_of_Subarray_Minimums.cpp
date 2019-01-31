@@ -100,3 +100,52 @@ public:
         return sum;
     }
 };
+
+// 思路四 改进的思路三
+// 60ms 88.89%
+
+class Solution {
+public:
+    int sumSubarrayMins(vector<int>& A) {
+        
+        // 第一个为value 第二个为索引
+        stack<int> pleStack, nleStack;
+
+        int *ple = new int[A.size()];
+        int *nle = new int[A.size()];
+
+        // 初始化
+        // for (int i = 0; i < A.size(); i++) ple[i] = i + 1;
+        for (int i = 0; i < A.size(); i++) nle[i] = A.size() - i;
+
+        // one pass
+        for (int i = 0; i < A.size(); i++)
+        {
+            // ple
+            while (!pleStack.empty() && A[pleStack.top()] > A[i]) 
+                pleStack.pop();
+            ple[i] = pleStack.empty() ? i + 1 : i - pleStack.top();
+            pleStack.push(i);
+
+            // nle
+            while (!nleStack.empty() && A[nleStack.top()] > A[i])
+            {
+                int temp = nleStack.top();
+                nleStack.pop();
+                nle[temp] = i - temp;
+            }
+            nleStack.push(i);
+        }
+
+        // 累计求和
+        int sum = 0;
+        for (int i = 0; i < A.size(); i++)
+            sum = (sum + A[i] * ple[i] * nle[i]) % static_cast<int>(1e9 + 7);
+        
+        // 释放空间
+        delete[] ple;
+        delete[] nle;
+
+        return sum;
+    }
+};
