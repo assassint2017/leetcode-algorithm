@@ -140,6 +140,8 @@
 145. [Binary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Postorder%20Traversal)
 199. [Binary Tree Right Side View](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Right%20Side%20View)
 202. [Happy Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Happy%20Number)
+207. [Course Schedule](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule)
+210. [Course Schedule II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule%20II)
 215. [Kth Largest Element in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Kth%20Largest%20Element%20in%20an%20Array)
 222. [Count Complete Tree Nodes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20Complete%20Tree%20Nodes)
 310. [Minimum Height Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Height%20Trees)
