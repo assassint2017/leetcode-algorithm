@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|122|34|71|17|
+|122|34|71|19|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -61,8 +61,8 @@
 49. [Group Anagrams](https://github.com/assassint2017/leetcode-algorithm/tree/master/Group%20Anagrams)
 50. [Pow(x, n)](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pow(x%2C%20n))
 ----
-51. []()
-52. []()
+51. [N-Queens]()
+52. [N-Queens II]()
 53. [Maximum Subarray](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Subarray)
 54. [Spiral Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/Spiral%20Matrix)
 55. [Jump Game](https://github.com/assassint2017/leetcode-algorithm/tree/master/Jump%20Game)
