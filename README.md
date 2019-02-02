@@ -142,6 +142,7 @@
 202. [Happy Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Happy%20Number)
 215. [Kth Largest Element in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Kth%20Largest%20Element%20in%20an%20Array)
 222. [Count Complete Tree Nodes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20Complete%20Tree%20Nodes)
+310. [Minimum Height Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Height%20Trees)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
 907. [Sum of Subarray Minimums](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Subarray%20Minimums)
