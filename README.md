@@ -61,8 +61,8 @@
 49. [Group Anagrams](https://github.com/assassint2017/leetcode-algorithm/tree/master/Group%20Anagrams)
 50. [Pow(x, n)](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pow(x%2C%20n))
 ----
-51. [N-Queens]()
-52. [N-Queens II]()
+51. [N-Queens](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-Queens)
+52. [N-Queens II](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-Queens%20II)
 53. [Maximum Subarray](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Subarray)
 54. [Spiral Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/Spiral%20Matrix)
 55. [Jump Game](https://github.com/assassint2017/leetcode-algorithm/tree/master/Jump%20Game)
