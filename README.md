@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|132|37|74|21|
+|134|38|75|21|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -130,16 +130,28 @@
 111. [Minimum Depth of Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Depth%20of%20Binary%20Tree)
 112. [Path Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum)
 113. [Path Sum II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum%20II)
+114. []()
+115. []()
+116. []()
+117. []()
 118. [Pascal's Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle)
 119. [Pascal's Triangle II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle%20II)
 120. [Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Triangle)
+----
 121. [Best Time to Buy and Sell Stock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 122. [Best Time to Buy and Sell Stock II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 123. [Best Time to Buy and Sell Stock III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
+124. []()
 125. [Valid Palindrome](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Palindrome)
+126. []()
+127. []()
+128. []()
 129. [Sum Root to Leaf Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20Root%20to%20Leaf%20Numbers)
+----
 135. [Candy](https://github.com/assassint2017/leetcode-algorithm/tree/master/Candy)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
+141. [Linked List Cycle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Linked%20List%20Cycle)
+142. [Linked List Cycle II ](https://github.com/assassint2017/leetcode-algorithm/tree/master/Linked%20List%20Cycle%20II)
 144. [Binary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Preorder%20Traversal)
 145. [Binary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Postorder%20Traversal)
 188. [Best Time to Buy and Sell Stock IV](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
