@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|125|34|72|19|
+|131|36|74|21|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -133,19 +133,25 @@
 118. [Pascal's Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle)
 119. [Pascal's Triangle II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle%20II)
 120. [Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Triangle)
+121. [Best Time to Buy and Sell Stock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+122. [Best Time to Buy and Sell Stock II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
+123. [Best Time to Buy and Sell Stock III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
 129. [Sum Root to Leaf Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20Root%20to%20Leaf%20Numbers)
 135. [Candy](https://github.com/assassint2017/leetcode-algorithm/tree/master/Candy)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
 144. [Binary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Preorder%20Traversal)
 145. [Binary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Postorder%20Traversal)
+188. [Best Time to Buy and Sell Stock IV](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
 199. [Binary Tree Right Side View](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Right%20Side%20View)
 202. [Happy Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Happy%20Number)
 207. [Course Schedule](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule)
 210. [Course Schedule II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule%20II)
 215. [Kth Largest Element in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Kth%20Largest%20Element%20in%20an%20Array)
 222. [Count Complete Tree Nodes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20Complete%20Tree%20Nodes)
+309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
 310. [Minimum Height Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Height%20Trees)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
+714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 907. [Sum of Subarray Minimums](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Subarray%20Minimums)
 948. [Bag of Tokens](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bag%20of%20Tokens)
