@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|131|36|74|21|
+|132|37|74|21|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -136,6 +136,7 @@
 121. [Best Time to Buy and Sell Stock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 122. [Best Time to Buy and Sell Stock II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
 123. [Best Time to Buy and Sell Stock III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
+125. [Valid Palindrome](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Palindrome)
 129. [Sum Root to Leaf Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20Root%20to%20Leaf%20Numbers)
 135. [Candy](https://github.com/assassint2017/leetcode-algorithm/tree/master/Candy)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
