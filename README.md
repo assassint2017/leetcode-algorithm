@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|136|38|77|21|
+|140|38|80|22|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -130,10 +130,10 @@
 111. [Minimum Depth of Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Depth%20of%20Binary%20Tree)
 112. [Path Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum)
 113. [Path Sum II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum%20II)
-114. []()
-115. []()
-116. []()
-117. []()
+114. [Flatten Binary Tree to Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Flatten%20Binary%20Tree%20to%20Linked%20List)
+115. [Distinct Subsequences]()
+116. [Populating Next Right Pointers in Each Node]()
+117. [Populating Next Right Pointers in Each Node II]()
 118. [Pascal's Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle)
 119. [Pascal's Triangle II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Pascal's%20Triangle%20II)
 120. [Triangle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Triangle)
