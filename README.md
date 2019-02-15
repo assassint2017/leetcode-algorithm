@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|144|40|80|24|
+|145|40|81|24|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -155,6 +155,7 @@
 143. [Reorder List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reorder%20List)
 144. [Binary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Preorder%20Traversal)
 145. [Binary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Postorder%20Traversal)
+147. [Insertion Sort List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Insertion%20Sort%20List)
 155. [Min Stack](https://github.com/assassint2017/leetcode-algorithm/tree/master/Min%20Stack)
 160. [Intersection of Two Linked Lists](https://github.com/assassint2017/leetcode-algorithm/tree/master/Intersection%20of%20Two%20Linked%20Lists)
 188. [Best Time to Buy and Sell Stock IV](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
