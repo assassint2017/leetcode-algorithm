@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|146|42|81|24|
+|148|42|82|24|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -150,6 +150,7 @@
 ----
 135. [Candy](https://github.com/assassint2017/leetcode-algorithm/tree/master/Candy)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
+138. [Copy List with Random Pointer](https://github.com/assassint2017/leetcode-algorithm/tree/master/Copy%20List%20with%20Random%20Pointer)
 141. [Linked List Cycle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Linked%20List%20Cycle)
 142. [Linked List Cycle II ](https://github.com/assassint2017/leetcode-algorithm/tree/master/Linked%20List%20Cycle%20II)
 143. [Reorder List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reorder%20List)
