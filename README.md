@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|150|43|82|25|
+|151|43|82|26|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -67,7 +67,7 @@
 54. [Spiral Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/Spiral%20Matrix)
 55. [Jump Game](https://github.com/assassint2017/leetcode-algorithm/tree/master/Jump%20Game)
 56. [Merge Intervals](https://github.com/assassint2017/leetcode-algorithm/tree/master/Merge%20Intervals)
-57. []()
+57. [Insert Interval](https://github.com/assassint2017/leetcode-algorithm/tree/master/Insert%20Interval)
 58. [Length of Last Word](https://github.com/assassint2017/leetcode-algorithm/tree/master/Length%20of%20Last%20Word)
 59. [Spiral Matrix II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Spiral%20Matrix%20II)
 60. [Permutation Sequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Permutation%20Sequence)
