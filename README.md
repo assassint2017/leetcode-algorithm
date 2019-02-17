@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|151|43|82|26|
+|152|43|83|26|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -157,6 +157,7 @@
 144. [Binary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Preorder%20Traversal)
 145. [Binary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Postorder%20Traversal)
 147. [Insertion Sort List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Insertion%20Sort%20List)
+153. [Find Minimum in Rotated Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 155. [Min Stack](https://github.com/assassint2017/leetcode-algorithm/tree/master/Min%20Stack)
 160. [Intersection of Two Linked Lists](https://github.com/assassint2017/leetcode-algorithm/tree/master/Intersection%20of%20Two%20Linked%20Lists)
 167. [Two Sum II - Input array is sorted](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
