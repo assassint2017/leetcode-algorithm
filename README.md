@@ -178,6 +178,7 @@
 392. [Is Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Subsequence)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
+674. [Longest Continuous Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Continuous%20Increasing%20Subsequence)
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
 907. [Sum of Subarray Minimums](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Subarray%20Minimums)
