@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|158|45|86|27|
+|164|48|87|29|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -145,11 +145,11 @@
 125. [Valid Palindrome](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Palindrome)
 126. []()
 127. []()
-128. []()
+128. [Longest Consecutive Sequence]()
 129. [Sum Root to Leaf Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20Root%20to%20Leaf%20Numbers)
 ----
 131. [Palindrome Partitioning](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Partitioning)
-132. [Palindrome Partitioning II]()
+132. [Palindrome Partitioning II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Partitioning%20II)
 135. [Candy](https://github.com/assassint2017/leetcode-algorithm/tree/master/Candy)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
 138. [Copy List with Random Pointer](https://github.com/assassint2017/leetcode-algorithm/tree/master/Copy%20List%20with%20Random%20Pointer)
@@ -177,6 +177,7 @@
 222. [Count Complete Tree Nodes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20Complete%20Tree%20Nodes)
 234. [Palindrome Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Linked%20List)
 237. [Delete Node in a Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Node%20in%20a%20Linked%20List)
+300. [Longest Increasing Subsequence]()
 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
 310. [Minimum Height Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Height%20Trees)
 392. [Is Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Subsequence)
