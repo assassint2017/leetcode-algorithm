@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|166|50|87|29|
+|168|50|88|30|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -147,12 +147,16 @@
 127. []()
 128. [Longest Consecutive Sequence]()
 129. [Sum Root to Leaf Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20Root%20to%20Leaf%20Numbers)
+130. []()
 ----
 131. [Palindrome Partitioning](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Partitioning)
 132. [Palindrome Partitioning II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Partitioning%20II)
 135. [Candy](https://github.com/assassint2017/leetcode-algorithm/tree/master/Candy)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
 138. [Copy List with Random Pointer](https://github.com/assassint2017/leetcode-algorithm/tree/master/Copy%20List%20with%20Random%20Pointer)
+139. [Word Break](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Break)
+140. [Word Break II]()
+----
 141. [Linked List Cycle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Linked%20List%20Cycle)
 142. [Linked List Cycle II ](https://github.com/assassint2017/leetcode-algorithm/tree/master/Linked%20List%20Cycle%20II)
 143. [Reorder List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reorder%20List)
