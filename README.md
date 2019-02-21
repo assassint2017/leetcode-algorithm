@@ -145,7 +145,7 @@
 125. [Valid Palindrome](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Palindrome)
 126. []()
 127. []()
-128. [Longest Consecutive Sequence]()
+128. [Longest Consecutive Sequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Consecutive%20Sequence)
 129. [Sum Root to Leaf Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20Root%20to%20Leaf%20Numbers)
 130. []()
 ----
