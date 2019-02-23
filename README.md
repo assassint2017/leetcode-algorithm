@@ -155,7 +155,7 @@
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
 138. [Copy List with Random Pointer](https://github.com/assassint2017/leetcode-algorithm/tree/master/Copy%20List%20with%20Random%20Pointer)
 139. [Word Break](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Break)
-140. [Word Break II]()
+140. [Word Break II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Break%20II)
 ----
 141. [Linked List Cycle](https://github.com/assassint2017/leetcode-algorithm/tree/master/Linked%20List%20Cycle)
 142. [Linked List Cycle II ](https://github.com/assassint2017/leetcode-algorithm/tree/master/Linked%20List%20Cycle%20II)
