@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|173|51|92|30|
+|174|52|92|30|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -175,6 +175,7 @@
 169. [Majority Element](https://github.com/assassint2017/leetcode-algorithm/tree/master/Majority%20Element)
 171. [Excel Sheet Column Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Excel%20Sheet%20Column%20Number)
 172. [Factorial Trailing Zeroes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Factorial%20Trailing%20Zeroes)
+176. [Second Highest Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Second%20Highest%20Salary)
 179. [Largest Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Largest%20Number)
 188. [Best Time to Buy and Sell Stock IV](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
 189. [Rotate Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20Array)
