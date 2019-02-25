@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|174|52|92|30|
+|175|53|92|30|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -179,6 +179,7 @@
 179. [Largest Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Largest%20Number)
 188. [Best Time to Buy and Sell Stock IV](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
 189. [Rotate Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20Array)
+194. [Rising Temperature](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rising%20Temperature)
 199. [Binary Tree Right Side View](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Right%20Side%20View)
 202. [Happy Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Happy%20Number)
 203. [Remove Linked List Elements](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Linked%20List%20Elements)
