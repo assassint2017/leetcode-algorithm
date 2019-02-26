@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|183|60|93|30|
+|187|63|94|30|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -175,17 +175,24 @@
 169. [Majority Element](https://github.com/assassint2017/leetcode-algorithm/tree/master/Majority%20Element)
 171. [Excel Sheet Column Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Excel%20Sheet%20Column%20Number)
 172. [Factorial Trailing Zeroes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Factorial%20Trailing%20Zeroes)
+175. [Combine Two Tables](https://github.com/assassint2017/leetcode-algorithm/tree/master/Combine%20Two%20Tables)
 176. [Second Highest Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Second%20Highest%20Salary)
 179. [Largest Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Largest%20Number)
+181. [Employees Earning More Than Their Managers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Employees%20Earning%20More%20Than%20Their%20Managers)
+182. [Duplicate Emails](https://github.com/assassint2017/leetcode-algorithm/tree/master/Duplicate%20Emails)
+183. [Customers Who Never Order](https://github.com/assassint2017/leetcode-algorithm/tree/master/Customers%20Who%20Never%20Order)
 188. [Best Time to Buy and Sell Stock IV](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV)
 189. [Rotate Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20Array)
 194. [Rising Temperature](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rising%20Temperature)
+196. [Delete Duplicate Emails](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Duplicate%20Emails)
+197. [Rising Temperature](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rising%20Temperature)
 198. [House Robber](https://github.com/assassint2017/leetcode-algorithm/tree/master/House%20Robber)
 199. [Binary Tree Right Side View](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Right%20Side%20View)
 202. [Happy Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Happy%20Number)
 203. [Remove Linked List Elements](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Linked%20List%20Elements)
 207. [Course Schedule](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule)
 210. [Course Schedule II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule%20II)
+213. [House Robber II]()
 215. [Kth Largest Element in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Kth%20Largest%20Element%20in%20an%20Array)
 222. [Count Complete Tree Nodes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20Complete%20Tree%20Nodes)
 234. [Palindrome Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Linked%20List)
@@ -197,6 +204,10 @@
 392. [Is Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Subsequence)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
+595. [Big Countries](https://github.com/assassint2017/leetcode-algorithm/tree/master/Big%20Countries)
+596. [Classes More Than 5 Students](https://github.com/assassint2017/leetcode-algorithm/tree/master/Classes%20More%20Than%205%20Students)
+620. [Not Boring Movies](https://github.com/assassint2017/leetcode-algorithm/tree/master/Not%20Boring%20Movies)
+627. [Swap Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Swap%20Salary)
 674. [Longest Continuous Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Continuous%20Increasing%20Subsequence)
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
