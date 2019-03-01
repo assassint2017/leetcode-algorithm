@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|190|64|96|30|
+|195|69|96|30|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -213,6 +213,7 @@
 620. [Not Boring Movies](https://github.com/assassint2017/leetcode-algorithm/tree/master/Not%20Boring%20Movies)
 627. [Swap Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Swap%20Salary)
 674. [Longest Continuous Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Continuous%20Increasing%20Subsequence)
+707. [Design Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20Linked%20List)
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
 852. [Peak Index in a Mountain Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Peak%20Index%20in%20a%20Mountain%20Array)
