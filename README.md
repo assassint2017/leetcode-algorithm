@@ -214,7 +214,7 @@
 627. [Swap Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Swap%20Salary)
 674. [Longest Continuous Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Continuous%20Increasing%20Subsequence)
 705. [Design HashSet](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20HashSet)
-706. [Design HashMap]()
+706. [Design HashMap](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20HashMap)
 707. [Design Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20Linked%20List)
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
