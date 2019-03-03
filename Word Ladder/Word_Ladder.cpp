@@ -104,16 +104,17 @@ public:
 private:
     void helper(queue<string>& candidate, unordered_set<string>& dict, string word)
     {
+        // 把自己先删掉
+        dict.erase(word);
         for (int i = 0; i < word.length(); i++)
         {
             char temp = word[i];
-            // 利用这种方式在数组的size大于26的时候就会体现出速度的优势
             for (int j = 0; j < 26; j++)
             {
                 word[i] = 'a' + j;
                 if (dict.find(word) != dict.end())
                 {
-                    candidate.push(word);
+                 candidate.push(word);
                     dict.erase(word);
                 }
             }
