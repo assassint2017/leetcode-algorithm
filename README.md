@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|195|69|96|30|
+|19669|96|31
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -143,7 +143,7 @@
 123. [Best Time to Buy and Sell Stock III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III)
 124. [Binary Tree Maximum Path Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Maximum%20Path%20Sum)
 125. [Valid Palindrome](https://github.com/assassint2017/leetcode-algorithm/tree/master/Valid%20Palindrome)
-126. []()
+126. [Word Ladder II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Ladder%20II)
 127. [Word Ladder](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Ladder)
 128. [Longest Consecutive Sequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Consecutive%20Sequence)
 129. [Sum Root to Leaf Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20Root%20to%20Leaf%20Numbers)
