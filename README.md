@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|19669|96|31
+|197|69|97|31|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -208,6 +208,7 @@
 392. [Is Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Subsequence)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
+464. [Can I Win](https://github.com/assassint2017/leetcode-algorithm/tree/master/Can%20I%20Win)
 595. [Big Countries](https://github.com/assassint2017/leetcode-algorithm/tree/master/Big%20Countries)
 596. [Classes More Than 5 Students](https://github.com/assassint2017/leetcode-algorithm/tree/master/Classes%20More%20Than%205%20Students)
 620. [Not Boring Movies](https://github.com/assassint2017/leetcode-algorithm/tree/master/Not%20Boring%20Movies)
