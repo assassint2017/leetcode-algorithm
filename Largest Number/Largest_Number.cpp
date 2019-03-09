@@ -1,6 +1,9 @@
 // Runtime: 12 ms, faster than 96.56% of C++ online submissions for Largest Number.
 // Memory Usage: 10.5 MB, less than 32.98% of C++ online submissions for Largest Number.
 
+// stringstream需要添加的库
+#include <sstream>
+
 // 比较函数感觉最好还是写在类的外部
 bool comp(const string& num1, const string& num2)
 {
