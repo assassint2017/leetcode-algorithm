@@ -38,3 +38,33 @@ public:
         }
     }
 };
+
+
+// 第二种思路，带有剪枝的高效算法
+
+// Runtime: 16 ms, faster than 99.77% of C++ online submissions for Balanced Binary Tree.
+// Memory Usage: 17.2 MB, less than 76.41% of C++ online submissions for Balanced Binary Tree.
+
+class Solution 
+{
+public:
+    bool isBalanced(TreeNode* root) 
+    {
+        return getDepth(root) != -1;        
+    }
+private:
+    int getDepth(TreeNode* root)
+    {
+        if (root == 0)
+            return 0;
+        
+        int left = getDepth(root->left);
+        if (left == -1)
+            return -1;
+        int right = getDepth(root->right);
+        if (right == -1)
+            return -1;
+        
+        return abs(left - right) <= 1 ? max(left, right) + 1 : -1;
+    }
+};
