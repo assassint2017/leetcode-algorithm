@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|198|69|98|31|
+|199|69|98|32|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -220,6 +220,7 @@
 707. [Design Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20Linked%20List)
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
+829. [Consecutive Numbers Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Consecutive%20Numbers%20Sum)
 852. [Peak Index in a Mountain Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Peak%20Index%20in%20a%20Mountain%20Array)
 907. [Sum of Subarray Minimums](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Subarray%20Minimums)
 948. [Bag of Tokens](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bag%20of%20Tokens)
