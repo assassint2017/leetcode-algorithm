@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|208|74|102|32|
+|210|76|102|32|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -206,6 +206,7 @@
 232. [Implement Queue using Stacks](https://github.com/assassint2017/leetcode-algorithm/tree/master/Implement%20Queue%20using%20Stacks)
 234. [Palindrome Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Linked%20List)
 237. [Delete Node in a Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Node%20in%20a%20Linked%20List)
+257. [Binary Tree Paths](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Paths)
 300. [Longest Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Increasing%20Subsequence)
 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
 310. [Minimum Height Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Height%20Trees)
@@ -223,6 +224,7 @@
 620. [Not Boring Movies](https://github.com/assassint2017/leetcode-algorithm/tree/master/Not%20Boring%20Movies)
 627. [Swap Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Swap%20Salary)
 674. [Longest Continuous Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Continuous%20Increasing%20Subsequence)
+700. [Search in a Binary Search Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20a%20Binary%20Search%20Tree)
 705. [Design HashSet](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20HashSet)
 706. [Design HashMap](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20HashMap)
 707. [Design Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20Linked%20List)
