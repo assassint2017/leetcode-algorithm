@@ -1,5 +1,7 @@
-// Runtime: 28 ms, faster than 59.59% of C++ online submissions for Permutations II.
-// Memory Usage: 9.8 MB, less than 90.64% of C++ online submissions for Permutations II.
+// 高分答案目前并不是很理解，所以直接用哈希表好了
+
+// Runtime: 24 ms, faster than 93.68% of C++ online submissions for Permutations II.
+// Memory Usage: 11.2 MB, less than 26.61% of C++ online submissions for Permutations II.
 
 class Solution 
 {
@@ -8,36 +10,35 @@ public:
     {
         vector<vector<int>> res;
         vector<int> tempres;
-        vector<bool> visited(nums.size(), false);
-        
-        sort(nums.begin(), nums.end());
-        helper(res, tempres, nums, visited);
+
+        helper(res, tempres, nums, 0);
         return res;
 
     } 
 private:
-    void helper(vector<vector<int>>& res, vector<int>& tempres, vector<int>& nums, vector<bool>& visited)
+    void helper(vector<vector<int>>& res, vector<int>& tempres, vector<int>& nums, int beginIndex)
     {
         if (tempres.size() == nums.size())
         {
             res.push_back(tempres);
             return;
         }
-
-        for (int i = 0; i < nums.size(); i++)
+        
+        unordered_set<int> hashSet;
+        for (int i = beginIndex; i < nums.size(); i++)
         {
-            if (visited[i])
+            if (hashSet.find(nums[i]) != hashSet.end())
                 continue;
-            if (i > 0 && visited[i - 1] && nums[i - 1] == nums[i])
-                continue;
+            else
+                hashSet.insert(nums[i]);
+            
+            swap(nums[beginIndex], nums[i]);
+            tempres.push_back(nums[beginIndex]);
 
-            tempres.push_back(nums[i]);
-            visited[i] = true;
-            
-            helper(res, tempres, nums, visited);
-            
+            helper(res, tempres, nums, beginIndex + 1);
+
             tempres.pop_back();
-            visited[i] = false;
+            swap(nums[beginIndex], nums[i]);
         }
     }
 };
