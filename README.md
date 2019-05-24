@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|211|76|102|33|
+|213|77|103|33|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -207,6 +207,8 @@
 234. [Palindrome Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Linked%20List)
 237. [Delete Node in a Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Node%20in%20a%20Linked%20List)
 257. [Binary Tree Paths](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Paths)
+263. [Ugly Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Ugly%20Number)
+264. [Ugly Number II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Ugly%20Number%20II)
 297. [Serialize and Deserialize Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Serialize%20and%20Deserialize%20Binary%20Tree)
 300. [Longest Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Increasing%20Subsequence)
 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
