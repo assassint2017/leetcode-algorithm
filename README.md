@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|213|77|103|33|
+|215|77|105|33|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -153,6 +153,7 @@
 132. [Palindrome Partitioning II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Partitioning%20II)
 135. [Candy](https://github.com/assassint2017/leetcode-algorithm/tree/master/Candy)
 136. [Single Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number)
+137. [Single Number II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number%20II)
 138. [Copy List with Random Pointer](https://github.com/assassint2017/leetcode-algorithm/tree/master/Copy%20List%20with%20Random%20Pointer)
 139. [Word Break](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Break)
 140. [Word Break II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Break%20II)
@@ -207,6 +208,7 @@
 234. [Palindrome Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Linked%20List)
 237. [Delete Node in a Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Node%20in%20a%20Linked%20List)
 257. [Binary Tree Paths](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Paths)
+260. [Single Number III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number%20III)
 263. [Ugly Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Ugly%20Number)
 264. [Ugly Number II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Ugly%20Number%20II)
 297. [Serialize and Deserialize Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Serialize%20and%20Deserialize%20Binary%20Tree)
