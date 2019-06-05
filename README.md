@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|221|80|107|34|
+|222|81|107|34|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -163,9 +163,12 @@
 143. [Reorder List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reorder%20List)
 144. [Binary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Preorder%20Traversal)
 145. [Binary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Postorder%20Traversal)
+146. []()
 147. [Insertion Sort List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Insertion%20Sort%20List)
 148. [Sort List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20List)
+149. []()
 150. [Evaluate Reverse Polish Notation](https://github.com/assassint2017/leetcode-algorithm/tree/master/Evaluate%20Reverse%20Polish%20Notation)
+---
 151. [Reverse Words in a String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reverse%20Words%20in%20a%20String)
 152. [Maximum Product Subarray](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Product%20Subarray)
 153. [Find Minimum in Rotated Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Minimum%20in%20Rotated%20Sorted%20Array)
@@ -227,6 +230,8 @@
 429. [N-ary Tree Level Order Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Level%20Order%20Traversal)
 464. [Can I Win](https://github.com/assassint2017/leetcode-algorithm/tree/master/Can%20I%20Win)
 513. [Find Bottom Left Tree Value](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Bottom%20Left%20Tree%20Value)
+589. [N-ary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Preorder%20Traversal)
+590. [N-ary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Postorder%20Traversal)
 595. [Big Countries](https://github.com/assassint2017/leetcode-algorithm/tree/master/Big%20Countries)
 596. [Classes More Than 5 Students](https://github.com/assassint2017/leetcode-algorithm/tree/master/Classes%20More%20Than%205%20Students)
 620. [Not Boring Movies](https://github.com/assassint2017/leetcode-algorithm/tree/master/Not%20Boring%20Movies)
