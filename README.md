@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|219|78|107|34|
+|220|79|107|34|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -238,6 +238,7 @@
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 752. [Open the Lock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Open%20the%20Lock)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
+796. [Rotate String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20String)
 829. [Consecutive Numbers Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Consecutive%20Numbers%20Sum)
 852. [Peak Index in a Mountain Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Peak%20Index%20in%20a%20Mountain%20Array)
 889. [Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
