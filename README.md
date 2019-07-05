@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|222|81|107|34|
+|224|82|108|34|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -229,6 +229,7 @@
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
 429. [N-ary Tree Level Order Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Level%20Order%20Traversal)
 464. [Can I Win](https://github.com/assassint2017/leetcode-algorithm/tree/master/Can%20I%20Win)
+496. [Next Greater Element I](https://github.com/assassint2017/leetcode-algorithm/tree/master/Next%20Greater%20Element%20I)
 513. [Find Bottom Left Tree Value](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Bottom%20Left%20Tree%20Value)
 589. [N-ary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Preorder%20Traversal)
 590. [N-ary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Postorder%20Traversal)
@@ -242,6 +243,7 @@
 706. [Design HashMap](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20HashMap)
 707. [Design Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20Linked%20List)
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
+739. [Daily Temperatures](https://github.com/assassint2017/leetcode-algorithm/tree/master/Daily%20Temperatures)
 752. [Open the Lock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Open%20the%20Lock)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
 796. [Rotate String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20String)
