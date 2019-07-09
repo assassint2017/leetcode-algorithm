@@ -1,4 +1,5 @@
 // 解题思路依然使用并查集，特殊点在于使用了一个虚拟的父亲节点将所有边界上、以及边界上的邻居点都串起来了
+// 对于路径压缩，另外一种方法是https://leetcode.com/problems/surrounded-regions/discuss/41617/Solve-it-using-Union-Find，对路径长度减半
 
 // Runtime: 24 ms, faster than 98.26% of C++ online submissions for Surrounded Regions.
 // Memory Usage: 14.4 MB, less than 34.94% of C++ online submissions for Surrounded Regions.
@@ -42,7 +43,7 @@ public:
                 {
                     int index1 = i * cols + j;
                     
-                    // 如果目标在边界上
+                    // 如果目标在边界上，将其和一个dummy node连接在一起
                     if (i == 0 || i == rows - 1 || j == 0 || j == cols - 1)
                     {
                         int index2 = rows * cols;
