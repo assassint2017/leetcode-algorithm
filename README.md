@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|229|83|112|34|
+|230|84|112|34|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -254,5 +254,6 @@
 889. [Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
 907. [Sum of Subarray Minimums](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Subarray%20Minimums)
 916. [Word Subsets](https://github.com/assassint2017/leetcode-algorithm/tree/master/Word%20Subsets)
+944. [Delete Columns to Make Sorted](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Columns%20to%20Make%20Sorted)
 948. [Bag of Tokens](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bag%20of%20Tokens)
 977. [Squares of a Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Squares%20of%20a%20Sorted%20Array)
