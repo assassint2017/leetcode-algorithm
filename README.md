@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|230|84|112|34|
+|231|84|113|34|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -208,6 +208,7 @@
 215. [Kth Largest Element in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Kth%20Largest%20Element%20in%20an%20Array)
 222. [Count Complete Tree Nodes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20Complete%20Tree%20Nodes)
 225. [Implement Stack using Queues](https://github.com/assassint2017/leetcode-algorithm/tree/master/Implement%20Stack%20using%20Queues)
+230. [Kth Smallest Element in a BST](https://github.com/assassint2017/leetcode-algorithm/tree/master/Kth%20Smallest%20Element%20in%20a%20BST)
 231. [Power of Two](https://github.com/assassint2017/leetcode-algorithm/tree/master/Power%20of%20Two)
 232. [Implement Queue using Stacks](https://github.com/assassint2017/leetcode-algorithm/tree/master/Implement%20Queue%20using%20Stacks)
 234. [Palindrome Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Palindrome%20Linked%20List)
