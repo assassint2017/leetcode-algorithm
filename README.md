@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|233|84|115|34|
+|234|84|115|35|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -224,6 +224,7 @@
 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
 310. [Minimum Height Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Height%20Trees)
 328. [Odd Even Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Odd%20Even%20Linked%20List)
+329. [Longest Increasing Path in a Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Increasing%20Path%20in%20a%20Matrix)
 337. [House Robber III](https://github.com/assassint2017/leetcode-algorithm/tree/master/House%20Robber%20III)
 344. [Reverse String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reverse%20String)
 347. [Top K Frequent Elements](https://github.com/assassint2017/leetcode-algorithm/tree/master/Top%20K%20Frequent%20Elements)
