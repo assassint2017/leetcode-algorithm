@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|231|84|113|34|
+|232|84|114|34|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -226,6 +226,7 @@
 328. [Odd Even Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Odd%20Even%20Linked%20List)
 337. [House Robber III](https://github.com/assassint2017/leetcode-algorithm/tree/master/House%20Robber%20III)
 344. [Reverse String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reverse%20String)
+347. [Top K Frequent Elements](https://github.com/assassint2017/leetcode-algorithm/tree/master/Top%20K%20Frequent%20Elements)
 389. [Find the Difference](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20the%20Difference)
 392. [Is Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Subsequence)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
