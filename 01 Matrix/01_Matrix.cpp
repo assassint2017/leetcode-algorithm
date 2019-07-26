@@ -149,3 +149,67 @@ public:
         return res;
     }
 };
+
+// 对于第二种解法，也可以这样写
+class Solution 
+{
+public:
+    vector<vector<int>> updateMatrix(vector<vector<int>>& matrix) 
+    {
+         // 边界条件处理
+        int rows = matrix.size();
+        if (rows == 0) return vector<vector<int>>();
+
+        int cols = matrix[0].size();
+        if (cols == 0) return vector<vector<int>>();   
+
+        // 初始化
+        vector<vector<int>> res(rows, vector<int>(cols));
+
+        int maxdis = rows + cols;
+        
+        // 迭代求解
+        queue<pair<int, int>> memo;
+
+        for (int i = 0; i < rows; ++i)
+        {
+            for (int j = 0; j < cols; ++j)
+            {
+                if (matrix[i][j] == 1)
+                    res[i][j] = maxdis;
+                else
+                    memo.push(make_pair(i, j));
+            }
+        }
+        
+        // 上下左右四个偏移量
+        int offseti[] = {-1, 1, 0, 0};
+        int offsetj[] = {0, 0, -1, 1};
+        
+        int layer = 0;
+        while (!memo.empty())
+        {
+            layer++;
+            for (int i = memo.size(); i > 0; i--)
+            {
+                auto pos = memo.front();
+                memo.pop();
+
+                for (int i = 0; i < 4; ++i)
+                {
+                    int x = pos.first + offseti[i];
+                    int y = pos.second + offsetj[i];
+
+                    if (x >= 0 && x < rows && y >= 0 && y < cols)
+                    {
+                        if (res[x][y] == maxdis)
+                            memo.push(make_pair(x, y));
+
+                        if (matrix[x][y] == 1) res[x][y] = min(res[x][y],  layer);
+                    }
+                }
+            }
+        }
+        return res;
+    }
+};
