@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|234|84|115|35|
+|236|84|117|35|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -236,6 +236,7 @@
 464. [Can I Win](https://github.com/assassint2017/leetcode-algorithm/tree/master/Can%20I%20Win)
 496. [Next Greater Element I](https://github.com/assassint2017/leetcode-algorithm/tree/master/Next%20Greater%20Element%20I)
 513. [Find Bottom Left Tree Value](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Bottom%20Left%20Tree%20Value)
+542. [01 Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/01%20Matrix)
 589. [N-ary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Preorder%20Traversal)
 590. [N-ary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Postorder%20Traversal)
 595. [Big Countries](https://github.com/assassint2017/leetcode-algorithm/tree/master/Big%20Countries)
