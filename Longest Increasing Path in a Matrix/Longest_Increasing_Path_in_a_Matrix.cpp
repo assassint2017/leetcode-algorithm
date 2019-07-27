@@ -95,3 +95,60 @@ public:
         return res;
     }
 };
+
+// 另外一种思路是使用带有备忘录的DFS
+
+// Runtime: 36 ms, faster than 95.05% of C++ online submissions for Longest Increasing Path in a Matrix.
+// Memory Usage: 12.5 MB, less than 96.96% of C++ online submissions for Longest Increasing Path in a Matrix.
+
+class Solution 
+{
+public:
+    int longestIncreasingPath(vector<vector<int>>& matrix) 
+    {
+        // 边界条件处理
+        rows = matrix.size();
+        if (rows == 0) return 0;
+
+        cols = matrix[0].size();
+        if (cols == 0) return 0;
+
+        vector<vector<int>> memo(rows, vector<int>(cols, 0));
+
+        int res = 1;
+        for (int i = 0; i < rows; ++i)
+        {
+            for (int j = 0; j < cols; ++j)
+            {
+                memo[i][j] = dfs(matrix, memo, i ,j);
+                res = max(res, memo[i][j]);
+            }
+        }
+        return res;
+    }
+private:
+    int rows, cols;
+private:
+    int dfs(vector<vector<int>>& matrix, vector<vector<int>>& memo, int i, int j)
+    {
+        if (memo[i][j] == 0)
+        {
+            int maxLength = 1;
+            int offseti[] = {-1, 1 ,0, 0};
+            int offsetj[] = {0 ,0, -1, 1};
+
+            for (int k = 0; k < 4; ++k)
+            {
+                int x = i + offseti[k];
+                int y = j + offsetj[k];
+                if (x >= 0 && x < rows && y >= 0 && y < cols && matrix[x][y] > matrix[i][j])
+                {
+                    maxLength = max(dfs(matrix, memo, x, y) + 1, maxLength);
+                }
+            }
+
+            memo[i][j] = maxLength;
+        }
+        return memo[i][j];
+    }
+};
