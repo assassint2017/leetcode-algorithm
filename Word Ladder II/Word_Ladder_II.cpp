@@ -101,3 +101,66 @@ private:
         }
     }
 };
+
+// 第二种思路，单独使用BFS
+// 存储的不再是string，而是由string组成的路径，附参考链接
+// https://leetcode.com/problems/word-ladder-ii/discuss/40434/C%2B%2B-solution-using-standard-BFS-method-no-DFS-or-backtracking
+
+// 做题过程中发现一个最大的不同就是每一层是可以使用同样的单词的
+
+// Runtime: 468 ms, faster than 39.17% of C++ online submissions for Word Ladder II.
+// Memory Usage: 184.2 MB, less than 5.31% of C++ online submissions for Word Ladder II.
+
+class Solution 
+{
+public:
+    vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) 
+    {
+        vector<vector<string>> res;
+        queue<vector<string>> paths;
+        unordered_set<string> hashset(wordList.begin(), wordList.end());
+
+        paths.push(vector<string>(1, beginWord));
+
+        bool found = false;
+        while (!paths.empty() && !found)
+        {
+            vector<string> visited;
+            for (int i = paths.size(); i > 0; --i)
+            {
+                vector<string> path = paths.front();
+                paths.pop();
+
+                string word = path.back();
+                for (int j = 0; j < word.size(); ++j)
+                {
+                    char chr = word[j];
+                    for (int k = 0; k < 26; ++k)
+                    {
+                        word[j] = k + 'a';
+                        if (hashset.find(word) != hashset.end())
+                        {
+                            vector<string> newPath = path;
+                            newPath.push_back(word);
+
+                            if (word == endWord)
+                            {
+                                res.push_back(newPath);
+                                found = true;
+                            }
+                            else
+                            {
+                                visited.push_back(word);
+                                paths.push(newPath);
+                            }
+                        }
+                    }
+                    word[j] = chr;
+                }
+            }
+            for (auto item : visited)
+                hashset.erase(item);
+        }
+        return res;
+    }
+};
