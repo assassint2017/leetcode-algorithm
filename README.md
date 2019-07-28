@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|239|85|119|35|
+|240|85|119|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -166,7 +166,7 @@
 146. []()
 147. [Insertion Sort List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Insertion%20Sort%20List)
 148. [Sort List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20List)
-149. []()
+149. [Max Points on a Line](https://github.com/assassint2017/leetcode-algorithm/tree/master/Max%20Points%20on%20a%20Line)
 150. [Evaluate Reverse Polish Notation](https://github.com/assassint2017/leetcode-algorithm/tree/master/Evaluate%20Reverse%20Polish%20Notation)
 ---
 151. [Reverse Words in a String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reverse%20Words%20in%20a%20String)
