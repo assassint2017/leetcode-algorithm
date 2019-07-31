@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|243|87|120|36|
+|244|88|120|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -258,6 +258,7 @@
 739. [Daily Temperatures](https://github.com/assassint2017/leetcode-algorithm/tree/master/Daily%20Temperatures)
 746. [Min Cost Climbing Stairs](https://github.com/assassint2017/leetcode-algorithm/tree/master/Min%20Cost%20Climbing%20Stairs)
 752. [Open the Lock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Open%20the%20Lock)
+754. [Reach a Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reach%20a%20Number)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
 796. [Rotate String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20String)
 829. [Consecutive Numbers Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Consecutive%20Numbers%20Sum)
