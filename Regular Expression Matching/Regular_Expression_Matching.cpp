@@ -42,3 +42,30 @@ private:
         return memo[i][j];
     }
 };
+
+// 非递归的版本
+// 动态规划 memo[i][j]代表（从右往左）长度为j的p能否匹配长度为i的s
+
+class Solution 
+{
+public:
+    bool isMatch(string s, string p) 
+    {        
+        vector<vector<bool>> memo(s.length() + 1, vector<bool>(p.length() + 1, false));
+        memo[0][0] = true;
+        
+        for (int i = 0; i <= s.size(); ++i)
+        {
+            for (int j = 1; j <= p.size(); ++j)
+            {
+                bool match = i != 0 && (s[s.length() - i] == p[p.length() - j] || p[p.length() - j] == '.') ? true : false;
+                if (j != 1 && p[p.length() - j + 1] == '*')
+                    memo[i][j] = (j - 2 >= 0 && memo[i][j - 2]) || (match && memo[i - 1][j]);
+                else
+                    memo[i][j] = match && memo[i - 1][j - 1];
+            }
+        }
+        
+        return memo[s.size()][p.size()];
+    }
+};
