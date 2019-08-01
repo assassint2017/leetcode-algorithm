@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|245|89|120|36|
+|246|89|121|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -256,6 +256,7 @@
 706. [Design HashMap](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20HashMap)
 707. [Design Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20Linked%20List)
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
+718. [Maximum Length of Repeated Subarray](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Length%20of%20Repeated%20Subarray)
 739. [Daily Temperatures](https://github.com/assassint2017/leetcode-algorithm/tree/master/Daily%20Temperatures)
 746. [Min Cost Climbing Stairs](https://github.com/assassint2017/leetcode-algorithm/tree/master/Min%20Cost%20Climbing%20Stairs)
 752. [Open the Lock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Open%20the%20Lock)
