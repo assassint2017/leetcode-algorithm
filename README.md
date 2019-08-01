@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|244|88|120|36|
+|245|89|120|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -201,6 +201,7 @@
 201. [Bitwise AND of Numbers Range](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bitwise%20AND%20of%20Numbers%20Range)
 202. [Happy Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Happy%20Number)
 203. [Remove Linked List Elements](https://github.com/assassint2017/leetcode-algorithm/tree/master/Remove%20Linked%20List%20Elements)
+204. [Count Primes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Count%20Primes)
 206. [Reverse Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reverse%20Linked%20List)
 207. [Course Schedule](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule)
 210. [Course Schedule II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule%20II)
