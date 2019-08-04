@@ -99,3 +99,83 @@ private:
         return *iter1;
     }
 };
+
+// 另外一种写法
+// Runtime: 24 ms, faster than 43.62% of C++ online submissions for Lowest Common Ancestor of a Binary Tree.
+// Memory Usage: 18.2 MB, less than 18.89% of C++ online submissions for Lowest Common Ancestor of a Binary Tree.
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution 
+{
+public:
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) 
+    {
+        // 边界条件处理
+        if (root == nullptr || q == nullptr || p == nullptr)
+            return nullptr;
+        
+        vector<TreeNode*> path1, path2;
+        getPath(path1, root, p);
+        getPath(path2, root, q);
+        
+        return find(path1, path2);
+    }
+private:
+    void getPath(vector<TreeNode*>& path, TreeNode* root, TreeNode* target)
+    {
+        path.push_back(root);
+        
+        TreeNode* preNode = nullptr;
+        stack<TreeNode*> treeStack;
+        
+        while (root || !treeStack.empty())
+        {
+            while (root)
+            {
+                path.push_back(root);
+                treeStack.push(root);
+                root = root->left;
+            }
+            if (!treeStack.empty())
+            {
+                root = treeStack.top();
+                treeStack.pop();
+                
+                if (root->right == nullptr || root->right == preNode)
+                {
+                    if (root == target)
+                        return ;
+                    path.pop_back();
+                    preNode = root;
+                    root = nullptr;
+                }
+                else
+                {
+                    treeStack.push(root);
+                    root = root->right;
+                }
+            }
+        }
+    }
+    
+    TreeNode* find(vector<TreeNode*>& path1, vector<TreeNode*>& path2)
+    {
+        TreeNode* res = path1.front();
+        for (int i = 0; i < path1.size() && i < path2.size(); )
+        {
+            if (i + 1 < path1.size() && i + 1 < path2.size() && path1[i + 1] == path2[i + 1])
+                ++i, res = path1[i];
+            else
+                break;
+        }
+        return res;
+    }
+};
