@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|246|89|121|36|
+|248|89|123|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -230,6 +230,7 @@
 337. [House Robber III](https://github.com/assassint2017/leetcode-algorithm/tree/master/House%20Robber%20III)
 344. [Reverse String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reverse%20String)
 347. [Top K Frequent Elements](https://github.com/assassint2017/leetcode-algorithm/tree/master/Top%20K%20Frequent%20Elements)
+377. [Combination Sum IV](https://github.com/assassint2017/leetcode-algorithm/tree/master/Combination%20Sum%20IV)
 389. [Find the Difference](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20the%20Difference)
 392. [Is Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Subsequence)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
@@ -271,3 +272,4 @@
 944. [Delete Columns to Make Sorted](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Columns%20to%20Make%20Sorted)
 948. [Bag of Tokens](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bag%20of%20Tokens)
 977. [Squares of a Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Squares%20of%20a%20Sorted%20Array)
+1079. [Letter Tile Possibilities](https://github.com/assassint2017/leetcode-algorithm/tree/master/Letter%20Tile%20Possibilities)
