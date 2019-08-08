@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|248|89|123|36|
+|249|90|123|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -252,6 +252,7 @@
 627. [Swap Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Swap%20Salary)
 674. [Longest Continuous Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Continuous%20Increasing%20Subsequence)
 692. [Top K Frequent Words](https://github.com/assassint2017/leetcode-algorithm/tree/master/Top%20K%20Frequent%20Words)
+697. [Degree of an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Degree%20of%20an%20Array)
 700. [Search in a Binary Search Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Search%20in%20a%20Binary%20Search%20Tree)
 705. [Design HashSet](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20HashSet)
 706. [Design HashMap](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20HashMap)
