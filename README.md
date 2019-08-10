@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|250|90|124|36|
+|251|91|124|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -206,6 +206,7 @@
 207. [Course Schedule](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule)
 208. [Implement Trie (Prefix Tree)](https://github.com/assassint2017/leetcode-algorithm/tree/master/Implement%20Trie%20(Prefix%20Tree))
 210. [Course Schedule II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Course%20Schedule%20II)
+211. [Add and Search Word - Data structure design](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20and%20Search%20Word%20-%20Data%20structure%20design)
 213. [House Robber II](https://github.com/assassint2017/leetcode-algorithm/tree/master/House%20Robber%20II)
 215. [Kth Largest Element in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Kth%20Largest%20Element%20in%20an%20Array)
 221. [Maximal Square](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximal%20Square)
