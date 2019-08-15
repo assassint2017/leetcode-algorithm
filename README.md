@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|253|92|125|36|
+|254|92|126|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -225,6 +225,7 @@
 264. [Ugly Number II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Ugly%20Number%20II)
 297. [Serialize and Deserialize Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Serialize%20and%20Deserialize%20Binary%20Tree)
 300. [Longest Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Increasing%20Subsequence)
+307. [Range Sum Query - Mutable](https://github.com/assassint2017/leetcode-algorithm/tree/master/Range%20Sum%20Query%20-%20Mutable)
 309. [Best Time to Buy and Sell Stock with Cooldown](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)
 310. [Minimum Height Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Minimum%20Height%20Trees)
 328. [Odd Even Linked List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Odd%20Even%20Linked%20List)
