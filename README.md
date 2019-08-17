@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|254|92|126|36|
+|255|92|127|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -236,6 +236,7 @@
 377. [Combination Sum IV](https://github.com/assassint2017/leetcode-algorithm/tree/master/Combination%20Sum%20IV)
 389. [Find the Difference](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20the%20Difference)
 392. [Is Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Subsequence)
+394. [Decode String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Decode%20String)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
 421. [Maximum XOR of Two Numbers in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)
