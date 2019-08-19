@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|255|92|127|36|
+|256|92|128|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -244,6 +244,7 @@
 437. [Path Sum III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum%20III)
 464. [Can I Win](https://github.com/assassint2017/leetcode-algorithm/tree/master/Can%20I%20Win)
 491. [Increasing Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Increasing%20Subsequences)
+494. [Target Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Target%20Sum)
 496. [Next Greater Element I](https://github.com/assassint2017/leetcode-algorithm/tree/master/Next%20Greater%20Element%20I)
 509. [Fibonacci Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Fibonacci%20Number)
 513. [Find Bottom Left Tree Value](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Bottom%20Left%20Tree%20Value)
