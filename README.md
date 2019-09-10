@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|267|97|134|36|
+|270|97|137|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -245,6 +245,7 @@
 421. [Maximum XOR of Two Numbers in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)
 429. [N-ary Tree Level Order Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Level%20Order%20Traversal)
 437. [Path Sum III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum%20III)
+445. [Add Two Numbers II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers%20II)
 451. [Sort Characters By Frequency](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20Characters%20By%20Frequency)
 464. [Can I Win](https://github.com/assassint2017/leetcode-algorithm/tree/master/Can%20I%20Win)
 475. [Heaters](https://github.com/assassint2017/leetcode-algorithm/tree/master/Heaters)
@@ -277,6 +278,7 @@
 746. [Min Cost Climbing Stairs](https://github.com/assassint2017/leetcode-algorithm/tree/master/Min%20Cost%20Climbing%20Stairs)
 752. [Open the Lock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Open%20the%20Lock)
 754. [Reach a Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reach%20a%20Number)
+767. [Reorganize String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reorganize%20String)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
 796. [Rotate String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20String)
 829. [Consecutive Numbers Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Consecutive%20Numbers%20Sum)
@@ -291,4 +293,5 @@
 948. [Bag of Tokens](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bag%20of%20Tokens)
 977. [Squares of a Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Squares%20of%20a%20Sorted%20Array)
 1038. [Binary Search Tree to Greater Sum Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)
+1048. [Longest String Chain](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20String%20Chain)
 1079. [Letter Tile Possibilities](https://github.com/assassint2017/leetcode-algorithm/tree/master/Letter%20Tile%20Possibilities)
