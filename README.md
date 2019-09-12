@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|270|97|137|36|
+|271|97|138|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -263,6 +263,7 @@
 620. [Not Boring Movies](https://github.com/assassint2017/leetcode-algorithm/tree/master/Not%20Boring%20Movies)
 627. [Swap Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Swap%20Salary)
 628. [Maximum Product of Three Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Product%20of%20Three%20Numbers)
+648. [Redundant Connection](https://github.com/assassint2017/leetcode-algorithm/tree/master/Redundant%20Connection)
 674. [Longest Continuous Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Continuous%20Increasing%20Subsequence)
 692. [Top K Frequent Words](https://github.com/assassint2017/leetcode-algorithm/tree/master/Top%20K%20Frequent%20Words)
 697. [Degree of an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Degree%20of%20an%20Array)
