@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|271|97|138|36|
+|272|98|138|36|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -275,6 +275,7 @@
 714. [Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/assassint2017/leetcode-algorithm/tree/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee)
 718. [Maximum Length of Repeated Subarray](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Length%20of%20Repeated%20Subarray)
 720. [Longest Word in Dictionary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Word%20in%20Dictionary)
+724. [Find Pivot Index](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Pivot%20Index)
 739. [Daily Temperatures](https://github.com/assassint2017/leetcode-algorithm/tree/master/Daily%20Temperatures)
 746. [Min Cost Climbing Stairs](https://github.com/assassint2017/leetcode-algorithm/tree/master/Min%20Cost%20Climbing%20Stairs)
 752. [Open the Lock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Open%20the%20Lock)
