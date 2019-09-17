@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|277|101|139|37|
+|278|102|139|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -299,6 +299,7 @@
 944. [Delete Columns to Make Sorted](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Columns%20to%20Make%20Sorted)
 948. [Bag of Tokens](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bag%20of%20Tokens)
 977. [Squares of a Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Squares%20of%20a%20Sorted%20Array)
+994. [Rotting Oranges](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotting%20Oranges)
 1038. [Binary Search Tree to Greater Sum Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)
 1048. [Longest String Chain](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20String%20Chain)
 1079. [Letter Tile Possibilities](https://github.com/assassint2017/leetcode-algorithm/tree/master/Letter%20Tile%20Possibilities)
