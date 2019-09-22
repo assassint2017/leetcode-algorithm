@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|278|102|139|37|
+|279|103|139|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -256,6 +256,7 @@
 509. [Fibonacci Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Fibonacci%20Number)
 513. [Find Bottom Left Tree Value](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Bottom%20Left%20Tree%20Value)
 542. [01 Matrix](https://github.com/assassint2017/leetcode-algorithm/tree/master/01%20Matrix)
+543. [Diameter of Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Diameter%20of%20Binary%20Tree)
 547. [Friend Circles](https://github.com/assassint2017/leetcode-algorithm/tree/master/Friend%20Circles)
 559. [Maximum Depth of N-ary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Depth%20of%20N-ary%20Tree)
 589. [N-ary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Preorder%20Traversal)
