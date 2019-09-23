@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|279|103|139|37|
+|280|103|140|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -240,6 +240,7 @@
 389. [Find the Difference](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20the%20Difference)
 392. [Is Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Subsequence)
 394. [Decode String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Decode%20String)
+395. [Longest Substring with At Least K Repeating Characters](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters)
 404. [Sum of Left Leaves](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Left%20Leaves)
 414. [Third Maximum Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Third%20Maximum%20Number)
 415. [Add Strings](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Strings)
