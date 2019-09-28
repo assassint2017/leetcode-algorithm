@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|280|103|140|37|
+|281|104|140|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -247,6 +247,7 @@
 421. [Maximum XOR of Two Numbers in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array)
 429. [N-ary Tree Level Order Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Level%20Order%20Traversal)
 437. [Path Sum III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum%20III)
+441. [Arranging Coins](https://github.com/assassint2017/leetcode-algorithm/tree/master/Arranging%20Coins)
 445. [Add Two Numbers II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers%20II)
 451. [Sort Characters By Frequency](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20Characters%20By%20Frequency)
 464. [Can I Win](https://github.com/assassint2017/leetcode-algorithm/tree/master/Can%20I%20Win)
