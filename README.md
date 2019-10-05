@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|285|106|142|37|
+|286|106|143|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -291,6 +291,7 @@
 752. [Open the Lock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Open%20the%20Lock)
 754. [Reach a Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reach%20a%20Number)
 767. [Reorganize String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reorganize%20String)
+785. [Is Graph Bipartite?]()
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
 796. [Rotate String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20String)
 802. [Find Eventual Safe States](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Eventual%20Safe%20States)
