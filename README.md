@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|282|104|141|37|
+|285|106|142|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -225,6 +225,7 @@
 260. [Single Number III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Single%20Number%20III)
 263. [Ugly Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Ugly%20Number)
 264. [Ugly Number II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Ugly%20Number%20II)
+283. [Move Zeroes](https://github.com/assassint2017/leetcode-algorithm/tree/master/Move%20Zeroes)
 297. [Serialize and Deserialize Binary Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Serialize%20and%20Deserialize%20Binary%20Tree)
 300. [Longest Increasing Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Longest%20Increasing%20Subsequence)
 307. [Range Sum Query - Mutable](https://github.com/assassint2017/leetcode-algorithm/tree/master/Range%20Sum%20Query%20-%20Mutable)
@@ -248,7 +249,9 @@
 429. [N-ary Tree Level Order Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/N-ary%20Tree%20Level%20Order%20Traversal)
 437. [Path Sum III](https://github.com/assassint2017/leetcode-algorithm/tree/master/Path%20Sum%20III)
 441. [Arranging Coins](https://github.com/assassint2017/leetcode-algorithm/tree/master/Arranging%20Coins)
+442. [Find All Duplicates in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20All%20Duplicates%20in%20an%20Array)
 445. [Add Two Numbers II](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers%20II)
+448. [Find All Numbers Disappeared in an Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 451. [Sort Characters By Frequency](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20Characters%20By%20Frequency)
 464. [Can I Win](https://github.com/assassint2017/leetcode-algorithm/tree/master/Can%20I%20Win)
 475. [Heaters](https://github.com/assassint2017/leetcode-algorithm/tree/master/Heaters)
