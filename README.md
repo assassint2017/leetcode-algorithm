@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|281|104|140|37|
+|282|104|141|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -163,7 +163,7 @@
 143. [Reorder List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reorder%20List)
 144. [Binary Tree Preorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Preorder%20Traversal)
 145. [Binary Tree Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Tree%20Postorder%20Traversal)
-146. []()
+146. [LRU Cache](https://github.com/assassint2017/leetcode-algorithm/tree/master/LRU%20Cache)
 147. [Insertion Sort List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Insertion%20Sort%20List)
 148. [Sort List](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sort%20List)
 149. [Max Points on a Line](https://github.com/assassint2017/leetcode-algorithm/tree/master/Max%20Points%20on%20a%20Line)
