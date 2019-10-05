@@ -291,7 +291,7 @@
 752. [Open the Lock](https://github.com/assassint2017/leetcode-algorithm/tree/master/Open%20the%20Lock)
 754. [Reach a Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reach%20a%20Number)
 767. [Reorganize String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Reorganize%20String)
-785. [Is Graph Bipartite?]()
+785. [Is Graph Bipartite?](https://github.com/assassint2017/leetcode-algorithm/tree/master/Is%20Graph%20Bipartite)
 792. [Number of Matching Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Number%20of%20Matching%20Subsequences)
 796. [Rotate String](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotate%20String)
 802. [Find Eventual Safe States](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Eventual%20Safe%20States)
