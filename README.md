@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|289|106|146|37|
+|290|106|147|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -307,6 +307,7 @@
 938. [Range Sum of BST](https://github.com/assassint2017/leetcode-algorithm/tree/master/Range%20Sum%20of%20BST)
 944. [Delete Columns to Make Sorted](https://github.com/assassint2017/leetcode-algorithm/tree/master/Delete%20Columns%20to%20Make%20Sorted)
 948. [Bag of Tokens](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bag%20of%20Tokens)
+973. [K Closest Points to Origin](https://github.com/assassint2017/leetcode-algorithm/tree/master/K%20Closest%20Points%20to%20Origin)
 977. [Squares of a Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Squares%20of%20a%20Sorted%20Array)
 991. [Broken Calculator](https://github.com/assassint2017/leetcode-algorithm/tree/master/Broken%20Calculator)
 994. [Rotting Oranges](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotting%20Oranges)
