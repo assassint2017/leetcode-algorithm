@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|293|107|148|37|
+|293|108|148|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -301,7 +301,7 @@
 802. [Find Eventual Safe States](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Eventual%20Safe%20States)
 829. [Consecutive Numbers Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Consecutive%20Numbers%20Sum)
 852. [Peak Index in a Mountain Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Peak%20Index%20in%20a%20Mountain%20Array)
-872. [Leaf-Similar Trees]()
+872. [Leaf-Similar Trees](https://github.com/assassint2017/leetcode-algorithm/tree/master/Leaf-Similar%20Trees)
 873. [Length of Longest Fibonacci Subsequence](https://github.com/assassint2017/leetcode-algorithm/tree/master/Length%20of%20Longest%20Fibonacci%20Subsequence)
 889. [Construct Binary Tree from Preorder and Postorder Traversal](https://github.com/assassint2017/leetcode-algorithm/tree/master/Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal)
 898. [Bitwise ORs of Subarrays](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bitwise%20ORs%20of%20Subarrays)
