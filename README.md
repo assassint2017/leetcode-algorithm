@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|296|109|150|37|
+|298|110|151|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -263,6 +263,7 @@
 491. [Increasing Subsequences](https://github.com/assassint2017/leetcode-algorithm/tree/master/Increasing%20Subsequences)
 494. [Target Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Target%20Sum)
 496. [Next Greater Element I](https://github.com/assassint2017/leetcode-algorithm/tree/master/Next%20Greater%20Element%20I)
+500. [Keyboard Row](https://github.com/assassint2017/leetcode-algorithm/tree/master/Keyboard%20Row)
 509. [Fibonacci Number](https://github.com/assassint2017/leetcode-algorithm/tree/master/Fibonacci%20Number)
 513. [Find Bottom Left Tree Value](https://github.com/assassint2017/leetcode-algorithm/tree/master/Find%20Bottom%20Left%20Tree%20Value)
 528. [Random Pick with Weight](https://github.com/assassint2017/leetcode-algorithm/tree/master/Random%20Pick%20with%20Weight)
@@ -315,6 +316,7 @@
 948. [Bag of Tokens](https://github.com/assassint2017/leetcode-algorithm/tree/master/Bag%20of%20Tokens)
 973. [K Closest Points to Origin](https://github.com/assassint2017/leetcode-algorithm/tree/master/K%20Closest%20Points%20to%20Origin)
 977. [Squares of a Sorted Array](https://github.com/assassint2017/leetcode-algorithm/tree/master/Squares%20of%20a%20Sorted%20Array)
+988. [Smallest String Starting From Leaf](https://github.com/assassint2017/leetcode-algorithm/tree/master/Smallest%20String%20Starting%20From%20Leaf)
 991. [Broken Calculator](https://github.com/assassint2017/leetcode-algorithm/tree/master/Broken%20Calculator)
 994. [Rotting Oranges](https://github.com/assassint2017/leetcode-algorithm/tree/master/Rotting%20Oranges)
 1038. [Binary Search Tree to Greater Sum Tree](https://github.com/assassint2017/leetcode-algorithm/tree/master/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree)
