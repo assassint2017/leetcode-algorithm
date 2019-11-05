@@ -4,7 +4,7 @@
 # leetcode-algorithm
 |total|easy|medium|hard|
 |:---:|:---:|:---:|:---:|
-|299|110|152|37|
+|300|110|153|37|
 ----
 1. [Two Sum](https://github.com/assassint2017/leetcode-algorithm/tree/master/Two%20Sum)
 2. [Add Two Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Add%20Two%20Numbers)
@@ -276,6 +276,7 @@
 595. [Big Countries](https://github.com/assassint2017/leetcode-algorithm/tree/master/Big%20Countries)
 596. [Classes More Than 5 Students](https://github.com/assassint2017/leetcode-algorithm/tree/master/Classes%20More%20Than%205%20Students)
 620. [Not Boring Movies](https://github.com/assassint2017/leetcode-algorithm/tree/master/Not%20Boring%20Movies)
+622. [Design Circular Queue](https://github.com/assassint2017/leetcode-algorithm/tree/master/Design%20Circular%20Queue)
 627. [Swap Salary](https://github.com/assassint2017/leetcode-algorithm/tree/master/Swap%20Salary)
 628. [Maximum Product of Three Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Maximum%20Product%20of%20Three%20Numbers)
 633. [Sum of Square Numbers](https://github.com/assassint2017/leetcode-algorithm/tree/master/Sum%20of%20Square%20Numbers)
